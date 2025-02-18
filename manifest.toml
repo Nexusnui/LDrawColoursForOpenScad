@@ -1,0 +1,24 @@
+manifest_version = "0.0.0-alpha"
+
+[library]
+name = "ldraw-colours"
+version = "0.1"
+short_description = "LDraw Colour Codes and Names"
+long_description = "Set the color of geometry by using LDraw colour codes and names"
+authors = [
+    { name = 'Nexusnui', email = 'noreply@noprovider.de' },
+]
+maintainers = [
+    { name = 'Nexusnui', email = 'noreply@noprovider.de' },
+]
+tags = ['utils']
+readme = "README.md"
+license = { file = "LICENSE", identifier = "CC BY 4.0" }
+
+[urls]
+repository = "https://github.com/Nexusnui/LDrawColoursForOpenScad"
+homepage = "https://github.com/Nexusnui/LDrawColoursForOpenScad"
+documentation = "https://github.com/Nexusnui/LDrawColoursForOpenScad"
+preview_images = [
+    "image1.png",
+]
