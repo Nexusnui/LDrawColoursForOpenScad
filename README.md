@@ -1,7 +1,7 @@
 This is a library for OpenScad that lets you use the LDraw colour codes and names.
 
 Usage:  
-Download [ldraw-colour.scad](/raw/master/ldraw-colours/ldraw-colours.scad) and place it into the OpenScad libraries folder or your project folder.  
+Download [ldraw-colour.scad](https://github.com/Nexusnui/LDrawColoursForOpenScad/raw/master/ldraw-colours/ldraw-colours.scad) and place it into the OpenScad libraries folder or your project folder.  
 Then include it with:  
 `include<ldraw-colours.scad>;`  
 Then you can use ldraw colours like this:  
