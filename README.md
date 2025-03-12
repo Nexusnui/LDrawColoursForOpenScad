@@ -2,13 +2,14 @@ This is a library for OpenScad that lets you use the LDraw colour codes and name
 
 Usage:  
 Download [ldraw-colour.scad](https://github.com/Nexusnui/LDrawColoursForOpenScad/raw/master/ldraw-colours/ldraw-colours.scad) and place it into the OpenScad libraries folder or your project folder.  
+(This library might be also be installable through the OpenScad library manager, when available)  
 Then include it with:  
 `include<ldraw-colours.scad>;`  
 Then you can use ldraw colours like this:  
 `color(LD_red)sphere(10);`  
-There are to prefixes "LD_" and "LDe_". They followed either a colour code or name.
+There are two prefixes "LD_" and "LDe_". They followed by either a colour code or name.
 For example "LD_4" and "LD_red" are the same colour. Colour names must be lower case.
-The prefix "LDe" returns the edge colour of a specific colour.  
+The prefix "LDe" returns the edge colour of the LDraw colour.  
 More about LDraw colours can be found in the [LDraw Colour Definition Reference](https://www.ldraw.org/article/547.html).
 
 The colour values are from the LDConfig.ldr file included with the LDraw library available on [LDraw.org](https://ldraw.org)  
