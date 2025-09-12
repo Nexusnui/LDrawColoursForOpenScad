@@ -243,10 +243,20 @@ LD_light_lime = LD_120;
 LDe_120 = "#333333";
 LDe_light_lime = LDe_120;
 
+LD_121 = "#F89A39";
+LD_light_orange = LD_121;
+LDe_121 = "#333333";
+LDe_light_orange = LDe_121;
+
+LD_123 = "#EE5434";
+LD_dark_salmon = LD_123;
+LDe_123 = "#333333";
+LDe_dark_salmon = LDe_123;
+
 LD_125 = "#F9A777";
-LD_light_orange = LD_125;
+LD_spud_orange = LD_125;
 LDe_125 = "#333333";
-LDe_light_orange = LDe_125;
+LDe_spud_orange = LDe_125;
 
 LD_128 = "#AD6140";
 LD_dark_nougat = LD_128;
@@ -258,6 +268,11 @@ LD_very_light_bluish_grey = LD_151;
 LDe_151 = "#333333";
 LDe_very_light_bluish_grey = LDe_151;
 
+LD_180 = "#DD982E";
+LD_dark_yellow = LD_180;
+LDe_180 = "#333333";
+LDe_dark_yellow = LDe_180;
+
 LD_191 = "#FCAC00";
 LD_bright_light_orange = LD_191;
 LDe_191 = "#333333";
@@ -267,6 +282,11 @@ LD_212 = "#9DC3F7";
 LD_bright_light_blue = LD_212;
 LDe_212 = "#333333";
 LDe_bright_light_blue = LDe_212;
+
+LD_213 = "#476FB6";
+LD_medium_blue_violet = LD_213;
+LDe_213 = "#333333";
+LDe_medium_blue_violet = LDe_213;
 
 LD_216 = "#872B17";
 LD_rust = LD_216;
@@ -282,6 +302,16 @@ LD_219 = "#564E9D";
 LD_lilac = LD_219;
 LDe_219 = "#333333";
 LDe_lilac = LDe_219;
+
+LD_220 = "#9195CA";
+LD_light_lilac = LD_220;
+LDe_220 = "#333333";
+LDe_light_lilac = LDe_220;
+
+LD_225 = "#FAA964";
+LD_warm_yellowish_orange = LD_225;
+LDe_225 = "#333333";
+LDe_warm_yellowish_orange = LDe_225;
 
 LD_226 = "#FFEC6C";
 LD_bright_light_yellow = LD_226;
@@ -413,6 +443,11 @@ LD_umber_brown = LD_423;
 LDe_423 = "#333333";
 LDe_umber_brown = LDe_423;
 
+LD_424 = "#DD9E47";
+LD_ochre_yellow = LD_424;
+LDe_424 = "#333333";
+LDe_ochre_yellow = LDe_424;
+
 LD_450 = "#D27744";
 LD_fabuland_brown = LD_450;
 LDe_450 = "#333333";
@@ -452,6 +487,21 @@ LD_510 = "#78FC78";
 LD_fabuland_lime = LD_510;
 LDe_510 = "#333333";
 LDe_fabuland_lime = LDe_510;
+
+LD_10015 = "#FFF230";
+LD_lemon = LD_10015;
+LDe_10015 = "#333333";
+LDe_lemon = LDe_10015;
+
+LD_10017 = "#FF9494";
+LD_rose_pink = LD_10017;
+LDe_10017 = "#333333";
+LDe_rose_pink = LDe_10017;
+
+LD_10022 = "#D05098";
+LD_yellowish_dark_pink = LD_10022;
+LDe_10022 = "#333333";
+LDe_yellowish_dark_pink = LDe_10022;
 
 LD_33 = "#0020A080";
 LD_trans_dark_blue = LD_33;
@@ -713,10 +763,35 @@ LD_lemon_metallic = LD_200;
 LDe_200 = "#333333";
 LDe_lemon_metallic = LDe_200;
 
+LD_296 = "#ADADAD";
+LD_cool_silver = LD_296;
+LDe_296 = "#333333";
+LDe_cool_silver = LDe_296;
+
 LD_297 = "#AA7F2E";
 LD_pearl_gold = LD_297;
 LDe_297 = "#333333";
 LDe_pearl_gold = LDe_297;
+
+LD_315 = "#8C8C8C";
+LD_flat_silver = LD_315;
+LDe_315 = "#333333";
+LDe_flat_silver = LDe_315;
+
+LD_316 = "#3E3C39";
+LD_titanium_metallic = LD_316;
+LDe_316 = "#333333";
+LDe_titanium_metallic = LDe_316;
+
+LD_342 = "#3E3C39";
+LD_conductive_black = LD_342;
+LDe_342 = "#333333";
+LDe_conductive_black = LDe_342;
+
+LD_346 = "#803D07";
+LD_reddish_copper = LD_346;
+LDe_346 = "#333333";
+LDe_reddish_copper = LDe_346;
 
 LD_80 = "#767676";
 LD_metallic_silver = LD_80;
@@ -757,6 +832,16 @@ LD_10049 = "#FECCCF";
 LD_metallic_light_pink = LD_10049;
 LDe_10049 = "#333333";
 LDe_metallic_light_pink = LDe_10049;
+
+LD_332 = "#D06D4F";
+LD_fluorescent_red_ink = LD_332;
+LDe_332 = "#333333";
+LDe_fluorescent_red_ink = LDe_332;
+
+LD_333 = "#DBEA7A";
+LD_fluorescent_green_ink = LD_333;
+LDe_333 = "#333333";
+LDe_fluorescent_green_ink = LDe_333;
 
 LD_79 = "#EEEEEEf0";
 LD_milky_white = LD_79;
@@ -868,6 +953,211 @@ LD_speckle_black_gold = LD_133;
 LDe_133 = "#DBAC34";
 LDe_speckle_black_gold = LDe_133;
 
+LD_30000 = "#FCFCFC80";
+LD_modulex_clear = LD_30000;
+LDe_30000 = "#C9C9C9";
+LDe_modulex_clear = LDe_30000;
+
+LD_30001 = "#F4F4F4";
+LD_modulex_white = LD_30001;
+LDe_30001 = "#333333";
+LDe_modulex_white = LDe_30001;
+
+LD_30002 = "#8A928D";
+LD_modulex_light_grey = LD_30002;
+LDe_30002 = "#333333";
+LDe_modulex_light_grey = LDe_30002;
+
+LD_30003 = "#34434D";
+LD_modulex_black = LD_30003;
+LDe_30003 = "#333333";
+LDe_modulex_black = LDe_30003;
+
+LD_30004 = "#D27744";
+LD_modulex_terracotta = LD_30004;
+LDe_30004 = "#333333";
+LDe_modulex_terracotta = LDe_30004;
+
+LD_30005 = "#D7BA8C";
+LD_modulex_buff = LD_30005;
+LDe_30005 = "#333333";
+LDe_modulex_buff = LDe_30005;
+
+LD_30006 = "#FED557";
+LD_modulex_ochre_yellow = LD_30006;
+LDe_30006 = "#333333";
+LDe_modulex_ochre_yellow = LDe_30006;
+
+LD_30007 = "#7C9051";
+LD_modulex_olive_green = LD_30007;
+LDe_30007 = "#333333";
+LDe_modulex_olive_green = LDe_30007;
+
+LD_30008 = "#467083";
+LD_modulex_teal_blue = LD_30008;
+LDe_30008 = "#333333";
+LDe_modulex_teal_blue = LDe_30008;
+
+LD_30009 = "#907450";
+LD_modulex_brown = LD_30009;
+LDe_30009 = "#333333";
+LDe_modulex_brown = LDe_30009;
+
+LD_30010 = "#B40000";
+LD_modulex_strong_red = LD_30010;
+LDe_30010 = "#333333";
+LDe_modulex_strong_red = LDe_30010;
+
+LD_30011 = "#ABD9FF";
+LD_modulex_pastel_blue = LD_30011;
+LDe_30011 = "#333333";
+LDe_modulex_pastel_blue = LDe_30011;
+
+LD_30012 = "#D86D2C";
+LD_modulex_orange = LD_30012;
+LDe_30012 = "#333333";
+LDe_modulex_orange = LDe_30012;
+
+LD_30013 = "#C65127";
+LD_modulex_red = LD_30013;
+LDe_30013 = "#333333";
+LDe_modulex_red = LDe_30013;
+
+LD_30014 = "#78FC78";
+LD_modulex_pastel_green = LD_30014;
+LDe_30014 = "#333333";
+LDe_modulex_pastel_green = LDe_30014;
+
+LD_30015 = "#FFF230";
+LD_modulex_lemon = LD_30015;
+LDe_30015 = "#333333";
+LDe_modulex_lemon = LDe_30015;
+
+LD_30016 = "#F785B1";
+LD_modulex_pink = LD_30016;
+LDe_30016 = "#333333";
+LDe_modulex_pink = LDe_30016;
+
+LD_30032 = "#AFB5C7";
+LD_modulex_light_bluish_grey = LD_30032;
+LDe_30032 = "#333333";
+LDe_modulex_light_bluish_grey = LDe_30032;
+
+LD_30033 = "#F45C40";
+LD_modulex_pink_red = LD_30033;
+LDe_30033 = "#333333";
+LDe_modulex_pink_red = LDe_30033;
+
+LD_30034 = "#27867E";
+LD_modulex_aqua_green = LD_30034;
+LDe_30034 = "#333333";
+LDe_modulex_aqua_green = LDe_30034;
+
+LD_30035 = "#FFE371";
+LD_modulex_light_yellow = LD_30035;
+LDe_30035 = "#333333";
+LDe_modulex_light_yellow = LDe_30035;
+
+LD_30037 = "#BD7D85";
+LD_modulex_violet = LD_30037;
+LDe_30037 = "#333333";
+LDe_modulex_violet = LDe_30037;
+
+LD_30038 = "#61AFFF";
+LD_modulex_medium_blue = LD_30038;
+LDe_30038 = "#333333";
+LDe_modulex_medium_blue = LDe_30038;
+
+LD_30039 = "#F7AD63";
+LD_modulex_light_orange = LD_30039;
+LDe_30039 = "#333333";
+LDe_modulex_light_orange = LDe_30039;
+
+LD_30040 = "#595D60";
+LD_modulex_charcoal_grey = LD_30040;
+LDe_30040 = "#333333";
+LDe_modulex_charcoal_grey = LDe_30040;
+
+LD_30054 = "#330000";
+LD_modulex_dark_brown = LD_30054;
+LDe_30054 = "#808080";
+LDe_modulex_dark_brown = LDe_30054;
+
+LD_30080 = "#F4F4F4";
+LD_modulex_foil_white = LD_30080;
+LDe_30080 = "#333333";
+LDe_modulex_foil_white = LDe_30080;
+
+LD_30081 = "#34434D";
+LD_modulex_foil_black = LD_30081;
+LDe_30081 = "#333333";
+LDe_modulex_foil_black = LDe_30081;
+
+LD_30082 = "#595D60";
+LD_modulex_foil_dark_grey = LD_30082;
+LDe_30082 = "#333333";
+LDe_modulex_foil_dark_grey = LDe_30082;
+
+LD_30083 = "#9C9C9C";
+LD_modulex_foil_light_grey = LD_30083;
+LDe_30083 = "#333333";
+LDe_modulex_foil_light_grey = LDe_30083;
+
+LD_30084 = "#006400";
+LD_modulex_foil_dark_green = LD_30084;
+LDe_30084 = "#808080";
+LDe_modulex_foil_dark_green = LDe_30084;
+
+LD_30085 = "#7DB538";
+LD_modulex_foil_light_green = LD_30085;
+LDe_30085 = "#333333";
+LDe_modulex_foil_light_green = LDe_30085;
+
+LD_30086 = "#0057A6";
+LD_modulex_foil_dark_blue = LD_30086;
+LDe_30086 = "#333333";
+LDe_modulex_foil_dark_blue = LDe_30086;
+
+LD_30087 = "#68AECE";
+LD_modulex_foil_light_blue = LD_30087;
+LDe_30087 = "#333333";
+LDe_modulex_foil_light_blue = LDe_30087;
+
+LD_30088 = "#4B0082";
+LD_modulex_foil_violet = LD_30088;
+LDe_30088 = "#333333";
+LDe_modulex_foil_violet = LDe_30088;
+
+LD_30089 = "#8B0000";
+LD_modulex_foil_dark_red = LD_30089;
+LDe_30089 = "#333333";
+LDe_modulex_foil_dark_red = LDe_30089;
+
+LD_30090 = "#FED557";
+LD_modulex_foil_yellow = LD_30090;
+LDe_30090 = "#333333";
+LDe_modulex_foil_yellow = LDe_30090;
+
+LD_30091 = "#F7AD63";
+LD_modulex_foil_orange = LD_30091;
+LDe_30091 = "#333333";
+LDe_modulex_foil_orange = LDe_30091;
+
+LD_31000 = "#6B5A5A";
+LD_modulex_dark_grey = LD_31000;
+LDe_31000 = "#333333";
+LDe_modulex_dark_grey = LDe_31000;
+
+LD_31001 = "#0057A6";
+LD_modulex_blue = LD_31001;
+LDe_31001 = "#333333";
+LDe_modulex_blue = LDe_31001;
+
+LD_31002 = "#D9D5CC";
+LD_modulex_very_light_grey = LD_31002;
+LDe_31002 = "#333333";
+LDe_modulex_very_light_grey = LDe_31002;
+
 LD_65 = "#FAC80A";
 LD_rubber_yellow = LD_65;
 LDe_65 = "#333333";
@@ -933,6 +1223,21 @@ LD_rubber_green = LD_10002;
 LDe_10002 = "#333333";
 LDe_rubber_green = LDe_10002;
 
+LD_10003 = "#069D9F";
+LD_rubber_dark_turquoise = LD_10003;
+LDe_10003 = "#333333";
+LDe_rubber_dark_turquoise = LDe_10003;
+
+LD_10005 = "#D3359D";
+LD_rubber_dark_pink = LD_10005;
+LDe_10005 = "#333333";
+LDe_rubber_dark_pink = LDe_10005;
+
+LD_10008 = "#545955";
+LD_rubber_dark_grey = LD_10008;
+LDe_10008 = "#333333";
+LDe_rubber_dark_grey = LDe_10008;
+
 LD_10010 = "#58AB41";
 LD_rubber_bright_green = LD_10010;
 LDe_10010 = "#333333";
@@ -947,6 +1252,11 @@ LD_10026 = "#901F76";
 LD_rubber_magenta = LD_10026;
 LDe_10026 = "#333333";
 LDe_rubber_magenta = LDe_10026;
+
+LD_10028 = "#897D62";
+LD_rubber_dark_tan = LD_10028;
+LDe_10028 = "#333333";
+LDe_rubber_dark_tan = LDe_10028;
 
 LD_10029 = "#FF9ECD";
 LD_rubber_bright_pink = LD_10029;
@@ -983,10 +1293,85 @@ LD_rubber_light_nougat = LD_10078;
 LDe_10078 = "#333333";
 LDe_rubber_light_nougat = LDe_10078;
 
+LD_10084 = "#AA7D55";
+LD_rubber_medium_nougat = LD_10084;
+LDe_10084 = "#333333";
+LDe_rubber_medium_nougat = LDe_10084;
+
+LD_10085 = "#441A91";
+LD_rubber_medium_lilac = LD_10085;
+LDe_10085 = "#333333";
+LDe_rubber_medium_lilac = LDe_10085;
+
+LD_10092 = "#BB805A";
+LD_rubber_nougat = LD_10092;
+LDe_10092 = "#333333";
+LDe_rubber_nougat = LDe_10092;
+
+LD_10135 = "#A0A0A0";
+LD_rubber_pearl_light_grey = LD_10135;
+LDe_10135 = "#333333";
+LDe_rubber_pearl_light_grey = LDe_10135;
+
+LD_10137 = "#5B7590";
+LD_rubber_metallic_blue = LD_10137;
+LDe_10137 = "#333333";
+LDe_rubber_metallic_blue = LDe_10137;
+
+LD_10147 = "#83724F";
+LD_rubber_pearl_dark_gold = LD_10147;
+LDe_10147 = "#333333";
+LDe_rubber_pearl_dark_gold = LDe_10147;
+
+LD_10148 = "#484D48";
+LD_rubber_pearl_dark_grey = LD_10148;
+LDe_10148 = "#333333";
+LDe_rubber_pearl_dark_grey = LDe_10148;
+
+LD_10150 = "#989B99";
+LD_rubber_pearl_very_light_grey = LD_10150;
+LDe_10150 = "#333333";
+LDe_rubber_pearl_very_light_grey = LDe_10150;
+
+LD_10151 = "#C8C8C8";
+LD_rubber_very_light_bluish_grey = LD_10151;
+LDe_10151 = "#333333";
+LDe_rubber_very_light_bluish_grey = LDe_10151;
+
+LD_10189 = "#AC8247";
+LD_rubber_reddish_gold = LD_10189;
+LDe_10189 = "#333333";
+LDe_rubber_reddish_gold = LDe_10189;
+
+LD_10191 = "#FCAC00";
+LD_rubber_bright_light_orange = LD_10191;
+LDe_10191 = "#333333";
+LDe_rubber_bright_light_orange = LDe_10191;
+
+LD_10200 = "#708224";
+LD_rubber_lemon_metallic = LD_10200;
+LDe_10200 = "#333333";
+LDe_rubber_lemon_metallic = LDe_10200;
+
+LD_10212 = "#9DC3F7";
+LD_rubber_bright_light_blue = LD_10212;
+LDe_10212 = "#333333";
+LDe_rubber_bright_light_blue = LDe_10212;
+
 LD_10226 = "#FFEC6C";
 LD_rubber_bright_light_yellow = LD_10226;
 LDe_10226 = "#333333";
 LDe_rubber_bright_light_yellow = LDe_10226;
+
+LD_10288 = "#00451A";
+LD_rubber_dark_green = LD_10288;
+LDe_10288 = "#808080";
+LDe_rubber_dark_green = LDe_10288;
+
+LD_10297 = "#AA7F2E";
+LD_rubber_pearl_gold = LD_10297;
+LDe_10297 = "#333333";
+LDe_rubber_pearl_gold = LDe_10297;
 
 LD_10308 = "#352100";
 LD_rubber_dark_brown = LD_10308;
@@ -1012,6 +1397,16 @@ LD_10323 = "#D3F2EA";
 LD_rubber_light_aqua = LD_10323;
 LDe_10323 = "#333333";
 LDe_rubber_light_aqua = LDe_10323;
+
+LD_10326 = "#E2F99A";
+LD_rubber_yellowish_green = LD_10326;
+LDe_10326 = "#333333";
+LDe_rubber_yellowish_green = LDe_10326;
+
+LD_10330 = "#77774E";
+LD_rubber_olive_green = LD_10330;
+LDe_10330 = "#333333";
+LDe_rubber_olive_green = LDe_10330;
 
 LD_10378 = "#708E7C";
 LD_rubber_sand_green = LD_10378;
@@ -1048,6 +1443,116 @@ LD_rubber_trans_light_blue = LD_10043;
 LDe_10043 = "#59D1DE";
 LDe_rubber_trans_light_blue = LDe_10043;
 
+LD_10057 = "#F08F1C80";
+LD_rubber_trans_orange = LD_10057;
+LDe_10057 = "#9E5C0A";
+LDe_rubber_trans_orange = LDe_10057;
+
+LD_10079 = "#EEEEEEf0";
+LD_rubber_milky_white = LD_10079;
+LDe_10079 = "#BABABA";
+LDe_rubber_milky_white = LDe_10079;
+
+LD_20000 = "#1B2A34";
+LD_canvas_black = LD_20000;
+LDe_20000 = "#808080";
+LDe_canvas_black = LDe_20000;
+
+LD_20001 = "#1E5AA8";
+LD_canvas_blue = LD_20001;
+LDe_20001 = "#333333";
+LDe_canvas_blue = LDe_20001;
+
+LD_20002 = "#00852B";
+LD_canvas_green = LD_20002;
+LDe_20002 = "#333333";
+LDe_canvas_green = LDe_20002;
+
+LD_20004 = "#B40000";
+LD_canvas_red = LD_20004;
+LDe_20004 = "#333333";
+LDe_canvas_red = LDe_20004;
+
+LD_20006 = "#543324";
+LD_canvas_brown = LD_20006;
+LDe_20006 = "#1E1E1E";
+LDe_canvas_brown = LDe_20006;
+
+LD_20007 = "#8A928D";
+LD_canvas_light_grey = LD_20007;
+LDe_20007 = "#333333";
+LDe_canvas_light_grey = LDe_20007;
+
+LD_20010 = "#58AB41";
+LD_canvas_bright_green = LD_20010;
+LDe_20010 = "#333333";
+LDe_canvas_bright_green = LDe_20010;
+
+LD_20014 = "#FAC80A";
+LD_canvas_yellow = LD_20014;
+LDe_20014 = "#333333";
+LDe_canvas_yellow = LDe_20014;
+
+LD_20015 = "#F4F4F4";
+LD_canvas_white = LD_20015;
+LDe_20015 = "#333333";
+LDe_canvas_white = LDe_20015;
+
+LD_20019 = "#D7BA8C";
+LD_canvas_tan = LD_20019;
+LDe_20019 = "#333333";
+LDe_canvas_tan = LDe_20019;
+
+LD_20022 = "#671F81";
+LD_canvas_purple = LD_20022;
+LDe_20022 = "#333333";
+LDe_canvas_purple = LDe_20022;
+
+LD_20028 = "#897D62";
+LD_canvas_dark_tan = LD_20028;
+LDe_20028 = "#333333";
+LDe_canvas_dark_tan = LDe_20028;
+
+LD_20070 = "#5F3109";
+LD_canvas_reddish_brown = LD_20070;
+LDe_20070 = "#808080";
+LDe_canvas_reddish_brown = LDe_20070;
+
+LD_20071 = "#969696";
+LD_canvas_light_bluish_grey = LD_20071;
+LDe_20071 = "#333333";
+LDe_canvas_light_bluish_grey = LDe_20071;
+
+LD_20072 = "#646464";
+LD_canvas_dark_bluish_grey = LD_20072;
+LDe_20072 = "#333333";
+LDe_canvas_dark_bluish_grey = LDe_20072;
+
+LD_20086 = "#7B5D41";
+LD_canvas_light_brown = LD_20086;
+LDe_20086 = "#333333";
+LDe_canvas_light_brown = LDe_20086;
+
+LD_20288 = "#00451A";
+LD_canvas_dark_green = LD_20288;
+LDe_20288 = "#808080";
+LDe_canvas_dark_green = LDe_20288;
+
+LD_20320 = "#720012";
+LD_canvas_dark_red = LD_20320;
+LDe_20320 = "#333333";
+LDe_canvas_dark_red = LDe_20320;
+
+LD_20335 = "#88605E";
+LD_canvas_sand_red = LD_20335;
+LDe_20335 = "#333333";
+LDe_canvas_sand_red = LDe_20335;
+
+LD_20500 = "#F8F3E4";
+LD_canvas_cream = LD_20500;
+LDe_20500 = "#333333";
+LDe_canvas_cream = LDe_20500;
+
 LD_16 = "#FFFF80";
 LD_main_colour = LD_16;
 LDe_16 = "#333333";
@@ -1077,9 +1582,4 @@ LD_10047 = "#FFFFFF10";
 LD_trans_sticker = LD_10047;
 LDe_10047 = "#FFFFFF";
 LDe_trans_sticker = LDe_10047;
-
-LD_10000 = "#F8F3E4";
-LD_fabric_cream = LD_10000;
-LDe_10000 = "#333333";
-LDe_fabric_cream = LDe_10000;
 
