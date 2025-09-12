@@ -1,4 +1,5 @@
 This is a library for OpenScad that lets you use the LDraw colour codes and names.
+![Image of Color Preview Model](preview.png)
 
 Usage:  
 Download [ldraw-colour.scad](https://github.com/Nexusnui/LDrawColoursForOpenScad/raw/master/ldraw-colours/ldraw-colours.scad) and place it into the OpenScad libraries folder or your project folder.  
