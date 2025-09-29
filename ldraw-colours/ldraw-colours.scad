@@ -638,6 +638,16 @@ LD_trans_black = LD_10375;
 LDe_10375 = "#545454";
 LDe_trans_black = LDe_10375;
 
+LD_11015 = "#F4F4F4ae";
+LD_trans_white = LD_11015;
+LDe_11015 = "#C1C1C1";
+LDe_trans_white = LDe_11015;
+
+LD_11019 = "#D7BA8C80";
+LD_trans_tan = LD_11019;
+LDe_11019 = "#BC8D41";
+LDe_trans_tan = LDe_11019;
+
 LD_60 = "#645A4C";
 LD_chrome_antique_brass = LD_60;
 LDe_60 = "#665B4D";
