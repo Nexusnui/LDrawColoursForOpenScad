@@ -1,4 +1,4 @@
-include <ldraw-colours.scad>;
+include <colours.scad>;
 
 /*
 Returns html colour values of a LDraw colour code or colour name.
