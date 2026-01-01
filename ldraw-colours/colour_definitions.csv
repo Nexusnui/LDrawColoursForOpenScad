@@ -127,6 +127,8 @@ Trans_Reddish_Lilac;284;#C281A5;#944771;128;;;284;Transparent Reddish Lilac;LDra
 Trans_Light_Green;285;#7DC291;#46955D;128;;;285;Transparent Light Green ;LDraw:LDraw Transparent Colours
 Trans_Light_Blue_Violet;293;#6BABE4;#247BC6;128;;;293;Transparent Light Royal Blue;LDraw:LDraw Transparent Colours
 Trans_Black;10375;#212121;#545454;128;;;375;Transparent Black;LDraw:LDraw Transparent Colours
+Trans_White;11015;#F4F4F4;#C1C1C1;174;;;;;LDraw:LDraw Transparent Colours
+Trans_Tan;11019;#D7BA8C;#BC8D41;128;;;;;LDraw:LDraw Transparent Colours
 Chrome_Antique_Brass;60;#645A4C;#665B4D;255;;CHROME;;;LDraw:LDraw Chrome Plated Colours
 Chrome_Blue;61;#6C96BF;#3D638A;255;;CHROME;;;LDraw:LDraw Chrome Plated Colours
 Chrome_Green;62;#3CB371;#226741;255;;CHROME;;;LDraw:LDraw Chrome Plated Colours
@@ -164,7 +166,7 @@ Metallic_Gold;82;#DBAC34;#333333;255;;METAL;299/335;Warm Gold Drum Lacq/Gold Ink
 Metallic_Dark_Grey;87;#3E3C39;#333333;255;;METAL;337;Titanium;LDraw:LDraw Metallic Paint Colours
 Metallic_Copper;300;#C27F53;#333333;255;;METAL;300/334;Copper Drum Lacq/Copper Ink;LDraw:LDraw Metallic Paint Colours
 Metallic_Light_Blue;10045;#97CBD9;#333333;255;;METAL;344;Cyan Metallic Ink;LDraw:LDraw Metallic Paint Colours
-Metallic_Pink;10046;#AD659A;#333333;255;;METAL;911;Metallic Pink;LDraw:LDraw Metallic Paint Colours
+Metallic_Pink;10046;#AD659A;#333333;255;;METAL;911;Metallic Pink (Clikits);LDraw:LDraw Metallic Paint Colours
 Metallic_Light_Pink;10049;#FECCCF;#333333;255;;METAL;345;Magenta Metallic Ink;LDraw:LDraw Metallic Paint Colours
 Fluorescent_Red_Ink;332;#D06D4F;#333333;255;;;332;Fluorescent Red Ink;LDraw:LDraw Fluorescent Paint Colours
 Fluorescent_Green_Ink;333;#DBEA7A;#333333;255;;;333;Fluorescent Green Ink;LDraw:LDraw Fluorescent Paint Colours
