@@ -1,4 +1,4 @@
-include <ldraw-colours.scad>;
+include <colours.scad>;
 
 module demo_brick(){
 difference(){

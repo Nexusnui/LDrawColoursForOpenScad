@@ -1,4 +1,4 @@
-include <ldraw-colours.scad>;
+include <colours.scad>;
 use <preview_category_grid.scad>;
 
 brick_grid(
