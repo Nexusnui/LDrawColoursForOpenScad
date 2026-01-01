@@ -2,7 +2,7 @@ manifest_version = "0.0.0-alpha"
 
 [library]
 name = "ldraw-colours"
-version = "0.1"
+version = "0.3"
 short_description = "LDraw Colour Codes and Names"
 long_description = "Set the color of geometry by using LDraw colour codes and names"
 authors = [
