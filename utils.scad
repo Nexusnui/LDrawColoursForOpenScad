@@ -188,6 +188,10 @@ ldraw_colour=="423" || ldraw_colour=="Umber_Brown" ?
 	LD_423 :
 ldraw_colour=="424" || ldraw_colour=="Ochre_Yellow" ?
 	LD_424 :
+ldraw_colour=="430" || ldraw_colour=="Warm_Pink" ?
+	LD_430 :
+ldraw_colour=="431" || ldraw_colour=="Bright_Blue_Violet" ?
+	LD_431 :
 ldraw_colour=="450" || ldraw_colour=="Fabuland_Brown" ?
 	LD_450 :
 ldraw_colour=="462" || ldraw_colour=="Medium_Orange" ?
@@ -196,8 +200,6 @@ ldraw_colour=="484" || ldraw_colour=="Dark_Orange" ?
 	LD_484 :
 ldraw_colour=="503" || ldraw_colour=="Very_Light_Grey" ?
 	LD_503 :
-ldraw_colour=="507" || ldraw_colour=="Light_Orange_Brown" ?
-	LD_507 :
 ldraw_colour=="508" || ldraw_colour=="Fabuland_Red" ?
 	LD_508 :
 ldraw_colour=="509" || ldraw_colour=="Fabuland_Orange" ?
@@ -210,6 +212,8 @@ ldraw_colour=="10017" || ldraw_colour=="Rose_Pink" ?
 	LD_10017 :
 ldraw_colour=="10022" || ldraw_colour=="Yellowish_Dark_Pink" ?
 	LD_10022 :
+ldraw_colour=="32" || ldraw_colour=="Trans_Black_IR_Lens" ?
+	LD_32 :
 ldraw_colour=="33" || ldraw_colour=="Trans_Dark_Blue" ?
 	LD_33 :
 ldraw_colour=="34" || ldraw_colour=="Trans_Green" ?
@@ -246,8 +250,6 @@ ldraw_colour=="54" || ldraw_colour=="Trans_Neon_Yellow" ?
 	LD_54 :
 ldraw_colour=="57" || ldraw_colour=="Trans_Orange" ?
 	LD_57 :
-ldraw_colour=="32" || ldraw_colour=="Trans_Black_IR_Lens" ?
-	LD_32 :
 ldraw_colour=="158" || ldraw_colour=="Trans_Neon_Red" ?
 	LD_158 :
 ldraw_colour=="227" || ldraw_colour=="Trans_Bright_Light_Green" ?
@@ -350,10 +352,10 @@ ldraw_colour=="332" || ldraw_colour=="Fluorescent_Red_Ink" ?
 	LD_332 :
 ldraw_colour=="333" || ldraw_colour=="Fluorescent_Green_Ink" ?
 	LD_333 :
-ldraw_colour=="79" || ldraw_colour=="Milky_White" ?
-	LD_79 :
 ldraw_colour=="21" || ldraw_colour=="Glow_In_Dark_Opaque" ?
 	LD_21 :
+ldraw_colour=="79" || ldraw_colour=="Milky_White" ?
+	LD_79 :
 ldraw_colour=="294" || ldraw_colour=="Glow_In_Dark_Trans" ?
 	LD_294 :
 ldraw_colour=="329" || ldraw_colour=="Glow_In_Dark_White" ?
@@ -370,6 +372,8 @@ ldraw_colour=="339" || ldraw_colour=="Glitter_Trans_Neon_Green" ?
 	LD_339 :
 ldraw_colour=="341" || ldraw_colour=="Glitter_Trans_Orange" ?
 	LD_341 :
+ldraw_colour=="10351" || ldraw_colour=="Glitter_Trans_Bright_Green" ?
+	LD_10351 :
 ldraw_colour=="360" || ldraw_colour=="Opal_Trans_Clear" ?
 	LD_360 :
 ldraw_colour=="362" || ldraw_colour=="Opal_Trans_Light_Blue" ?
@@ -382,8 +386,8 @@ ldraw_colour=="365" || ldraw_colour=="Opal_Trans_Purple" ?
 	LD_365 :
 ldraw_colour=="367" || ldraw_colour=="Opal_Trans_Green" ?
 	LD_367 :
-ldraw_colour=="10351" || ldraw_colour=="Glitter_Trans_Bright_Green" ?
-	LD_10351 :
+ldraw_colour=="376" || ldraw_colour=="Opal_Trans_Yellow" ?
+	LD_376 :
 ldraw_colour=="10366" || ldraw_colour=="Opal_Trans_Dark_Blue" ?
 	LD_10366 :
 ldraw_colour=="75" || ldraw_colour=="Speckle_Black_Copper" ?
@@ -634,6 +638,8 @@ ldraw_colour=="20335" || ldraw_colour=="Canvas_Sand_Red" ?
 	LD_20335 :
 ldraw_colour=="20500" || ldraw_colour=="Canvas_Cream" ?
 	LD_20500 :
+ldraw_colour=="507" || ldraw_colour=="Obsolete_Light_Orange_Brown" ?
+	LD_507 :
 ldraw_colour=="16" || ldraw_colour=="Main_Colour" ?
 	LD_16 :
 ldraw_colour=="24" || ldraw_colour=="Edge_Colour" ?
@@ -835,6 +841,10 @@ ldraw_colour=="423" || ldraw_colour=="Umber_Brown" ?
 	LDe_423 :
 ldraw_colour=="424" || ldraw_colour=="Ochre_Yellow" ?
 	LDe_424 :
+ldraw_colour=="430" || ldraw_colour=="Warm_Pink" ?
+	LDe_430 :
+ldraw_colour=="431" || ldraw_colour=="Bright_Blue_Violet" ?
+	LDe_431 :
 ldraw_colour=="450" || ldraw_colour=="Fabuland_Brown" ?
 	LDe_450 :
 ldraw_colour=="462" || ldraw_colour=="Medium_Orange" ?
@@ -843,8 +853,6 @@ ldraw_colour=="484" || ldraw_colour=="Dark_Orange" ?
 	LDe_484 :
 ldraw_colour=="503" || ldraw_colour=="Very_Light_Grey" ?
 	LDe_503 :
-ldraw_colour=="507" || ldraw_colour=="Light_Orange_Brown" ?
-	LDe_507 :
 ldraw_colour=="508" || ldraw_colour=="Fabuland_Red" ?
 	LDe_508 :
 ldraw_colour=="509" || ldraw_colour=="Fabuland_Orange" ?
@@ -857,6 +865,8 @@ ldraw_colour=="10017" || ldraw_colour=="Rose_Pink" ?
 	LDe_10017 :
 ldraw_colour=="10022" || ldraw_colour=="Yellowish_Dark_Pink" ?
 	LDe_10022 :
+ldraw_colour=="32" || ldraw_colour=="Trans_Black_IR_Lens" ?
+	LDe_32 :
 ldraw_colour=="33" || ldraw_colour=="Trans_Dark_Blue" ?
 	LDe_33 :
 ldraw_colour=="34" || ldraw_colour=="Trans_Green" ?
@@ -893,8 +903,6 @@ ldraw_colour=="54" || ldraw_colour=="Trans_Neon_Yellow" ?
 	LDe_54 :
 ldraw_colour=="57" || ldraw_colour=="Trans_Orange" ?
 	LDe_57 :
-ldraw_colour=="32" || ldraw_colour=="Trans_Black_IR_Lens" ?
-	LDe_32 :
 ldraw_colour=="158" || ldraw_colour=="Trans_Neon_Red" ?
 	LDe_158 :
 ldraw_colour=="227" || ldraw_colour=="Trans_Bright_Light_Green" ?
@@ -997,10 +1005,10 @@ ldraw_colour=="332" || ldraw_colour=="Fluorescent_Red_Ink" ?
 	LDe_332 :
 ldraw_colour=="333" || ldraw_colour=="Fluorescent_Green_Ink" ?
 	LDe_333 :
-ldraw_colour=="79" || ldraw_colour=="Milky_White" ?
-	LDe_79 :
 ldraw_colour=="21" || ldraw_colour=="Glow_In_Dark_Opaque" ?
 	LDe_21 :
+ldraw_colour=="79" || ldraw_colour=="Milky_White" ?
+	LDe_79 :
 ldraw_colour=="294" || ldraw_colour=="Glow_In_Dark_Trans" ?
 	LDe_294 :
 ldraw_colour=="329" || ldraw_colour=="Glow_In_Dark_White" ?
@@ -1017,6 +1025,8 @@ ldraw_colour=="339" || ldraw_colour=="Glitter_Trans_Neon_Green" ?
 	LDe_339 :
 ldraw_colour=="341" || ldraw_colour=="Glitter_Trans_Orange" ?
 	LDe_341 :
+ldraw_colour=="10351" || ldraw_colour=="Glitter_Trans_Bright_Green" ?
+	LDe_10351 :
 ldraw_colour=="360" || ldraw_colour=="Opal_Trans_Clear" ?
 	LDe_360 :
 ldraw_colour=="362" || ldraw_colour=="Opal_Trans_Light_Blue" ?
@@ -1029,8 +1039,8 @@ ldraw_colour=="365" || ldraw_colour=="Opal_Trans_Purple" ?
 	LDe_365 :
 ldraw_colour=="367" || ldraw_colour=="Opal_Trans_Green" ?
 	LDe_367 :
-ldraw_colour=="10351" || ldraw_colour=="Glitter_Trans_Bright_Green" ?
-	LDe_10351 :
+ldraw_colour=="376" || ldraw_colour=="Opal_Trans_Yellow" ?
+	LDe_376 :
 ldraw_colour=="10366" || ldraw_colour=="Opal_Trans_Dark_Blue" ?
 	LDe_10366 :
 ldraw_colour=="75" || ldraw_colour=="Speckle_Black_Copper" ?
@@ -1281,6 +1291,8 @@ ldraw_colour=="20335" || ldraw_colour=="Canvas_Sand_Red" ?
 	LDe_20335 :
 ldraw_colour=="20500" || ldraw_colour=="Canvas_Cream" ?
 	LDe_20500 :
+ldraw_colour=="507" || ldraw_colour=="Obsolete_Light_Orange_Brown" ?
+	LDe_507 :
 ldraw_colour=="16" || ldraw_colour=="Main_Colour" ?
 	LDe_16 :
 ldraw_colour=="24" || ldraw_colour=="Edge_Colour" ?

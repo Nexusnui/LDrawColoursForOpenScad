@@ -448,6 +448,16 @@ LD_Ochre_Yellow = LD_424;
 LDe_424 = "#333333";
 LDe_Ochre_Yellow = LDe_424;
 
+LD_430 = "#F79B9B";
+LD_Warm_Pink = LD_430;
+LDe_430 = "#333333";
+LDe_Warm_Pink = LDe_430;
+
+LD_431 = "#665EA7";
+LD_Bright_Blue_Violet = LD_431;
+LDe_431 = "#333333";
+LDe_Bright_Blue_Violet = LDe_431;
+
 LD_450 = "#D27744";
 LD_Fabuland_Brown = LD_450;
 LDe_450 = "#333333";
@@ -468,11 +478,6 @@ LD_Very_Light_Grey = LD_503;
 LDe_503 = "#333333";
 LDe_Very_Light_Grey = LDe_503;
 
-LD_507 = "#FA9C1C";
-LD_Light_Orange_Brown = LD_507;
-LDe_507 = "#333333";
-LDe_Light_Orange_Brown = LDe_507;
-
 LD_508 = "#C65127";
 LD_Fabuland_Red = LD_508;
 LDe_508 = "#333333";
@@ -483,7 +488,7 @@ LD_Fabuland_Orange = LD_509;
 LDe_509 = "#333333";
 LDe_Fabuland_Orange = LDe_509;
 
-LD_510 = "#78FC78";
+LD_510 = "#ACE35A";
 LD_Fabuland_Lime = LD_510;
 LDe_510 = "#333333";
 LDe_Fabuland_Lime = LDe_510;
@@ -502,6 +507,11 @@ LD_10022 = "#D05098";
 LD_Yellowish_Dark_Pink = LD_10022;
 LDe_10022 = "#333333";
 LDe_Yellowish_Dark_Pink = LDe_10022;
+
+LD_32 = "#000000d2";
+LD_Trans_Black_IR_Lens = LD_32;
+LDe_32 = "#333333";
+LDe_Trans_Black_IR_Lens = LDe_32;
 
 LD_33 = "#0020A080";
 LD_Trans_Dark_Blue = LD_33;
@@ -592,11 +602,6 @@ LD_57 = "#F08F1C80";
 LD_Trans_Orange = LD_57;
 LDe_57 = "#9E5C0A";
 LDe_Trans_Orange = LDe_57;
-
-LD_32 = "#000000d2";
-LD_Trans_Black_IR_Lens = LD_32;
-LDe_32 = "#333333";
-LDe_Trans_Black_IR_Lens = LDe_32;
 
 LD_158 = "#F18EBB80";
 LD_Trans_Neon_Red = LD_158;
@@ -853,15 +858,15 @@ LD_Fluorescent_Green_Ink = LD_333;
 LDe_333 = "#333333";
 LDe_Fluorescent_Green_Ink = LDe_333;
 
-LD_79 = "#EEEEEEf0";
-LD_Milky_White = LD_79;
-LDe_79 = "#BABABA";
-LDe_Milky_White = LDe_79;
-
 LD_21 = "#E0FFB0f0";
 LD_Glow_In_Dark_Opaque = LD_21;
 LDe_21 = "#B8FF4D";
 LDe_Glow_In_Dark_Opaque = LDe_21;
+
+LD_79 = "#EEEEEEf0";
+LD_Milky_White = LD_79;
+LDe_79 = "#BABABA";
+LDe_Milky_White = LDe_79;
 
 LD_294 = "#BDC6ADf0";
 LD_Glow_In_Dark_Trans = LD_294;
@@ -903,6 +908,11 @@ LD_Glitter_Trans_Orange = LD_341;
 LDe_341 = "#9E5C0A";
 LDe_Glitter_Trans_Orange = LDe_341;
 
+LD_10351 = "#56E64680";
+LD_Glitter_Trans_Bright_Green = LD_10351;
+LDe_10351 = "#27AF18";
+LDe_Glitter_Trans_Bright_Green = LDe_10351;
+
 LD_360 = "#FCFCFCf0";
 LD_Opal_Trans_Clear = LD_360;
 LDe_360 = "#C9C9C9";
@@ -933,10 +943,10 @@ LD_Opal_Trans_Green = LD_367;
 LDe_367 = "#174F2B";
 LDe_Opal_Trans_Green = LDe_367;
 
-LD_10351 = "#56E64680";
-LD_Glitter_Trans_Bright_Green = LD_10351;
-LDe_10351 = "#27AF18";
-LDe_Glitter_Trans_Bright_Green = LDe_10351;
+LD_376 = "#F5CD2Fc8";
+LD_Opal_Trans_Yellow = LD_376;
+LDe_376 = "#B49208";
+LDe_Opal_Trans_Yellow = LDe_376;
 
 LD_10366 = "#0020A0c8";
 LD_Opal_Trans_Dark_Blue = LD_10366;
@@ -1562,6 +1572,11 @@ LD_20500 = "#F8F3E4";
 LD_Canvas_Cream = LD_20500;
 LDe_20500 = "#333333";
 LDe_Canvas_Cream = LDe_20500;
+
+LD_507 = "#FA9C1C";
+LD_Obsolete_Light_Orange_Brown = LD_507;
+LDe_507 = "#333333";
+LDe_Obsolete_Light_Orange_Brown = LDe_507;
 
 LD_16 = "#FFFF80";
 LD_Main_Colour = LD_16;

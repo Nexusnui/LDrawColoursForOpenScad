@@ -3,17 +3,15 @@ use <preview_category_grid.scad>;
 
 brick_grid(
 	"Solid",
-	[[LD_0, LD_1, LD_2, LD_3, LD_4], [LD_5, LD_6, LD_7, LD_8, LD_9], [LD_10, LD_11, LD_12, LD_13, LD_14], [LD_15, LD_17, LD_18, LD_19, LD_20], [LD_22, LD_23, LD_25, LD_26, LD_27], [LD_28, LD_29, LD_30, LD_31, LD_68], [LD_69, LD_70, LD_71, LD_72, LD_73], [LD_74, LD_77, LD_78, LD_84, LD_85], [LD_86, LD_89, LD_92, LD_100, LD_110], [LD_112, LD_115, LD_118, LD_120, LD_121], [LD_123, LD_125, LD_128, LD_151, LD_180], [LD_191, LD_212, LD_213, LD_216, LD_218], [LD_219, LD_220, LD_225, LD_226, LD_232], [LD_272, LD_288, LD_295, LD_308, LD_313], [LD_320, LD_321, LD_322, LD_323, LD_326], [LD_330, LD_335, LD_351, LD_353, LD_366], [LD_368, LD_370, LD_371, LD_373, LD_378], [LD_379, LD_402, LD_422, LD_423, LD_424], [LD_450, LD_462, LD_484, LD_503, LD_507], [LD_508, LD_509, LD_510, LD_10015, LD_10017], [LD_10022]],
+	[[LD_0, LD_1, LD_2, LD_3, LD_4], [LD_5, LD_6, LD_7, LD_8, LD_9], [LD_10, LD_11, LD_12, LD_13, LD_14], [LD_15, LD_17, LD_18, LD_19, LD_20], [LD_22, LD_23, LD_25, LD_26, LD_27], [LD_28, LD_29, LD_30, LD_31, LD_68], [LD_69, LD_70, LD_71, LD_72, LD_73], [LD_74, LD_77, LD_78, LD_84, LD_85], [LD_86, LD_89, LD_92, LD_100, LD_110], [LD_112, LD_115, LD_118, LD_120, LD_121], [LD_123, LD_125, LD_128, LD_151, LD_180], [LD_191, LD_212, LD_213, LD_216, LD_218], [LD_219, LD_220, LD_225, LD_226, LD_232], [LD_272, LD_288, LD_295, LD_308, LD_313], [LD_320, LD_321, LD_322, LD_323, LD_326], [LD_330, LD_335, LD_351, LD_353, LD_366], [LD_368, LD_370, LD_371, LD_373, LD_378], [LD_379, LD_402, LD_422, LD_423, LD_424], [LD_430, LD_431, LD_450, LD_462, LD_484], [LD_503, LD_508, LD_509, LD_510, LD_10015], [LD_10017, LD_10022]],
 	[0,0]
 );
 
-
 brick_grid(
 	"Transparent",
-	[[LD_33, LD_34, LD_35, LD_36, LD_37, LD_38, LD_39, LD_40, LD_41, LD_42, LD_43], [LD_44, LD_45, LD_46, LD_47, LD_52, LD_54, LD_57, LD_32, LD_158, LD_227, LD_231], [LD_234, LD_284, LD_285, LD_293, LD_10375, LD_11015, LD_11019]],
+	[[LD_32, LD_33, LD_34, LD_35, LD_36, LD_37, LD_38, LD_39, LD_40, LD_41, LD_42], [LD_43, LD_44, LD_45, LD_46, LD_47, LD_52, LD_54, LD_57, LD_158, LD_227, LD_231], [LD_234, LD_284, LD_285, LD_293, LD_10375, LD_11015, LD_11019]],
 	[5.5,18]
 );
-
 
 brick_grid(
 	"Chrome Plated",
@@ -21,13 +19,11 @@ brick_grid(
 	[17,20]
 );
 
-
 brick_grid(
 	"Pearlescent Plastic",
 	[[LD_83, LD_134, LD_135, LD_137, LD_142, LD_147, LD_148, LD_150, LD_176, LD_178, LD_179, LD_183, LD_184, LD_185, LD_186, LD_187, LD_189, LD_200, LD_296], [LD_297, LD_315, LD_316, LD_342, LD_346]],
 	[5.5,15]
 );
-
 
 brick_grid(
 	"Metallic Paint",
@@ -35,27 +31,28 @@ brick_grid(
 	[17,18]
 );
 
-
 brick_grid(
 	"Fluorescent Paint",
 	[[LD_332, LD_333]],
 	[12,7]
 );
 
-
 brick_grid(
 	"Milky",
-	[[LD_79, LD_21, LD_294, LD_329]],
+	[[LD_21, LD_79, LD_294, LD_329]],
 	[19.5,14]
 );
 
-
 brick_grid(
 	"Glitter",
-	[[LD_114, LD_117, LD_129, LD_302, LD_339, LD_341, LD_360], [LD_362, LD_363, LD_364, LD_365, LD_367, LD_10351, LD_10366]],
+	[[LD_114, LD_117, LD_129, LD_302, LD_339, LD_341, LD_10351]],
 	[12,4]
 );
-
+brick_grid(
+	"Opalescent",
+	[[LD_360, LD_362, LD_363, LD_364, LD_365, LD_367, LD_376, LD_10366]],
+	[17.5,5.5]
+);
 
 brick_grid(
 	"Speckle",
@@ -63,13 +60,11 @@ brick_grid(
 	[19.5,12]
 );
 
-
 brick_grid(
 	"Modulex",
 	[[LD_30000, LD_30001, LD_30002, LD_30003, LD_30004, LD_30005, LD_30006], [LD_30007, LD_30008, LD_30009, LD_30010, LD_30011, LD_30012, LD_30013], [LD_30014, LD_30015, LD_30016, LD_30032, LD_30033, LD_30034, LD_30035], [LD_30037, LD_30038, LD_30039, LD_30040, LD_30054, LD_30080, LD_30081], [LD_30082, LD_30083, LD_30084, LD_30085, LD_30086, LD_30087, LD_30088], [LD_30089, LD_30090, LD_30091, LD_31000, LD_31001, LD_31002]],
 	[12,9]
 );
-
 
 brick_grid(
 	"Rubber",
@@ -77,13 +72,11 @@ brick_grid(
 	[5.5,5]
 );
 
-
 brick_grid(
 	"Transparent Rubber",
 	[[LD_66, LD_67, LD_10035, LD_10036, LD_10043, LD_10057, LD_10079]],
 	[12,2]
 );
-
 
 brick_grid(
 	"Fabric",
@@ -91,10 +84,14 @@ brick_grid(
 	[5.5,0]
 );
 
+brick_grid(
+	"Obsolete",
+	[[LD_507]],
+	[19.5,10]
+);
 
 brick_grid(
 	"LDraw Internal Common Material",
 	[[LD_16, LD_24, LD_493, LD_494, LD_495, LD_10047]],
 	[12,0]
 );
-
