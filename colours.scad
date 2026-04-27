@@ -508,7 +508,7 @@ LD_Yellowish_Dark_Pink = LD_10022;
 LDe_10022 = "#333333";
 LDe_Yellowish_Dark_Pink = LDe_10022;
 
-LD_32 = "#000000d2";
+LD_32 = "#000000f5";
 LD_Trans_Black_IR_Lens = LD_32;
 LDe_32 = "#333333";
 LDe_Trans_Black_IR_Lens = LDe_32;
@@ -858,7 +858,7 @@ LD_Fluorescent_Green_Ink = LD_333;
 LDe_333 = "#333333";
 LDe_Fluorescent_Green_Ink = LDe_333;
 
-LD_21 = "#E0FFB0f0";
+LD_21 = "#E0FFB0f5";
 LD_Glow_In_Dark_Opaque = LD_21;
 LDe_21 = "#B8FF4D";
 LDe_Glow_In_Dark_Opaque = LDe_21;
@@ -868,12 +868,12 @@ LD_Milky_White = LD_79;
 LDe_79 = "#BABABA";
 LDe_Milky_White = LDe_79;
 
-LD_294 = "#BDC6ADf0";
+LD_294 = "#BDC6ADc8";
 LD_Glow_In_Dark_Trans = LD_294;
 LDe_294 = "#8D9D72";
 LDe_Glow_In_Dark_Trans = LDe_294;
 
-LD_329 = "#F5F3D7f0";
+LD_329 = "#F5F3D7f5";
 LD_Glow_In_Dark_White = LD_329;
 LDe_329 = "#E0DA85";
 LDe_Glow_In_Dark_White = LDe_329;
