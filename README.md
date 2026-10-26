@@ -10,9 +10,13 @@ This is a library for OpenScad that lets you use the LDraw colour codes and name
 
 ### With Variable Names
 Include:  
-`include <ldraw-colours/colours.scad>;`  
+``` 
+include <ldraw-colours/colours.scad>;
+```  
 Then you can use ldraw colours like this:  
-`color(LD_Red)sphere(10);`  
+```
+color(LD_Red)sphere(10);
+```  
 There are two prefixes "LD_" and "LDe_". They followed by either a colour code or name.
 For example "LD_4" and "LD_Red" are the same colour. Colour names are the same as in the LDraw LDConfig.ldr file (each word uppercase and seperated with "_").
 The prefix "LDe" returns the edge colour of the LDraw colour.  
@@ -20,7 +24,9 @@ More about LDraw colours can be found in the [LDraw Colour Definition Reference]
 
 ### With a Function
 Include:
-`use <ldraw-colours/utils.scad>;`  
+```
+use <ldraw-colours/utils.scad>;
+``` 
 Then apply a colour to an object like this:
 ```
 ldraw_color(4)sphere(10);` 
