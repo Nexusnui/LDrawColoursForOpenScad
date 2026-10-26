@@ -938,10 +938,10 @@ LD_Opal_Trans_Purple = LD_365;
 LDe_365 = "#441456";
 LDe_Opal_Trans_Purple = LDe_365;
 
-LD_367 = "#237841c8";
-LD_Opal_Trans_Green = LD_367;
-LDe_367 = "#174F2B";
-LDe_Opal_Trans_Green = LDe_367;
+LD_367 = "#56E646c8";
+LD_Opal_Trans_Bright_Green = LD_367;
+LDe_367 = "#27AF18";
+LDe_Opal_Trans_Bright_Green = LDe_367;
 
 LD_376 = "#F5CD2Fc8";
 LD_Opal_Trans_Yellow = LD_376;

@@ -1,6 +1,24 @@
 include <colours.scad>;
 
 /*
+Applies LDraw Colour to objects/children.
+Parameters:
+    colour: str|int
+        Ldraw Colour Code(int or str) or name(str).
+        Uses the ldraw_rgb() or ldraw_edge() functions to determine color values.
+    edge: bool
+        use edge colour default is false.
+*/
+module ldraw_colour(colour, edge=false){
+    str_colour = str(colour);
+    if(edge){
+        color(ldraw_edge(str_colour))children();
+    }else{
+        color(ldraw_rgb(str_colour))children();
+    }
+}
+
+/*
 Returns html colour values of a LDraw colour code or colour name.
 If using a ldraw name it has to lowercase and spaces are replaced with "_"
 Transparent Colours also include alpha values.
@@ -384,7 +402,7 @@ ldraw_colour=="364" || ldraw_colour=="Opal_Trans_Dark_Pink" ?
 	LD_364 :
 ldraw_colour=="365" || ldraw_colour=="Opal_Trans_Purple" ?
 	LD_365 :
-ldraw_colour=="367" || ldraw_colour=="Opal_Trans_Green" ?
+ldraw_colour=="367" || ldraw_colour=="Opal_Trans_Bright_Green" ?
 	LD_367 :
 ldraw_colour=="376" || ldraw_colour=="Opal_Trans_Yellow" ?
 	LD_376 :
@@ -1037,7 +1055,7 @@ ldraw_colour=="364" || ldraw_colour=="Opal_Trans_Dark_Pink" ?
 	LDe_364 :
 ldraw_colour=="365" || ldraw_colour=="Opal_Trans_Purple" ?
 	LDe_365 :
-ldraw_colour=="367" || ldraw_colour=="Opal_Trans_Green" ?
+ldraw_colour=="367" || ldraw_colour=="Opal_Trans_Bright_Green" ?
 	LDe_367 :
 ldraw_colour=="376" || ldraw_colour=="Opal_Trans_Yellow" ?
 	LDe_376 :
