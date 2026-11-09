@@ -29,7 +29,7 @@ use <ldraw-colours/utils.scad>;
 ``` 
 Then apply a colour to an object like this:
 ```
-ldraw_color(4)sphere(10);` 
+ldraw_colour(4)sphere(10);` 
 ```
 To apply the edge colour:
 ```
