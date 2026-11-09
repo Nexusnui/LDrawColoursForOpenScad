@@ -33,7 +33,7 @@ ldraw_color(4)sphere(10);`
 ```
 To apply the edge colour:
 ```
-ldraw_color("Red", edge=true)sphere(10);` 
+ldraw_colour("Red", edge=true)sphere(10);` 
 ```
 The function accepts either a colour code(string or int) or a colour name(string). Colour names are the same as in the LDraw LDConfig.ldr file (each word uppercase and seperated with "_").
 Applying the colour through a function can be useful when using the OpenScad customizer.
